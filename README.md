@@ -1,3 +1,3 @@
 # Innovtn
 
-### Source code for Innovtn project, contesting in [...]
+Source code for Innovtn project, contesting in [...]
