@@ -1,3 +1,3 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
+# Innovtn
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
+### Source code for Innovtn project, contesting in [...]
